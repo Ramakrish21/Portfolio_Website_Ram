@@ -4,7 +4,7 @@ import { Navbar } from './component/Navbar';
 import { MobileMenu } from './component/MobileMenu';
 import { Home } from './component/sections/Home';
 import { About } from './component/sections/About';
-import { Projects } from './component/sections/projects';
+import { Projects } from './component/sections/Projects';
 import { LoadingScreen } from './component/LoadingScreen';
 import "./index.css";
 import { Contact } from './component/sections/Contact';
