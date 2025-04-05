@@ -119,7 +119,7 @@ export const About = () => {
                     Full Stack Web Development Intern (AICTE Internship)
                   </h4>
                   <p className="mt-1">
-                    <span className="font-bold">Company:</span> EY GDS & Edunet Foundation <span className="text-yellow-500">(Jun 2023 - Jul 2023)</span>
+                    <span className="font-bold">Company:</span> EY GDS & Edunet Foundation <span className="text-yellow-500">( Feb 2025 – Mar 2025)</span>
                   </p>
                   <p className="mt-1">
                     <span className="font-bold">Role:</span> Developed a web-based Project Management Tool using <span className="font-semibold">React.js, Node.js, Express.js, MongoDB.</span>
