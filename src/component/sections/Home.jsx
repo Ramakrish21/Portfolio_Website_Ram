@@ -49,7 +49,7 @@ export const Home = () => {
         </RevealOnScroll>
         <div className="mt-8 md:mt-0 md:ml-8 flex justify-center">
           <img
-            src="/Ram.jpg"
+            src="/Ram1.jpg"
             alt="My Photo"
             className="w-80 h-auto rounded-full"
           />
