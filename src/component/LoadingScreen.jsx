@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export const LoadingScreen = ({ onComplete }) => {
   const [text, setText] = useState("");
-  const fullText = "<Initializing RamaKrishna's Portfolio />";
+  const fullText = "<Initializing Portfolio />";
 
   useEffect(() => {
     let index = 0;
@@ -15,7 +15,7 @@ export const LoadingScreen = ({ onComplete }) => {
 
         setTimeout(() => {
           onComplete();
-        }, 1000);
+        }, 1000);       
       }
     }, 100);
 
