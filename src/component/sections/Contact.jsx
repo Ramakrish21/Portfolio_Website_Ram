@@ -82,7 +82,7 @@ export const Contact = () => {
                 className="flex items-center gap-4 text-gray-200 hover:text-blue-400 cursor-pointer transition-colors"
               >
                 <FaEnvelope className="text-xl" />
-                <span>adlaramakrishna@gmail.com</span>
+                <span>adlaramakrishna28@gmail.com</span>
               </a>
               <a
                 href="tel:+918106609324"
