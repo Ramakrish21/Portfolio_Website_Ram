@@ -29,7 +29,7 @@ export const Home = () => {
 
               {/* View Resume Button */}
               <a
-                href="/AdlaRamaKrishna.pdf"
+                href="/AdlaRamakrishnaReddy.pdf"
                 download="Ramakrishna_Reddy_Resume.pdf"
                 className="bg-gray-700 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:bg-gray-600 hover:-translate-y-0.5"
               >
